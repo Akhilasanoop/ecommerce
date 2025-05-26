@@ -1,4 +1,5 @@
 Django E-commerce Web Application
+
 This is a full-stack e-commerce web application built using Django. It allows users to browse products, add items to the cart, and search for products.
 
 Features
